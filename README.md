@@ -1,5 +1,7 @@
 # GitBrowse
 
+**English:** For the English version of this README and the workflows guide, see [docs/english.md](docs/english.md) — [README (English)](docs/english.md#readme-english) · [Workflows guide (English)](docs/english.md#repository-github-actions-guide-english).
+
 **این پروژه و اسکریپت‌هایش تقدیم می‌شود به مردم شریف ایران.**
 
 هدف ساخت این مخزن این بوده که هموطنانی که در شرایط محدودیت شبکه (از جمله **نت ملی** یا فیلترینگ) به اینترنت آزاد و منابع جهانی دسترسی مستقیم ندارند، بتوانند با اجرای مرورگر روی زیرساخت **GitHub Actions** (خارج از مرز شبکه محدود شما) صفحات وب را باز، ذخیره و به صورت **آرشیو آفلاین** (HTML، MHTML، دارایی‌ها و گزارش شبکه) در همان مخزن دریافت کنند؛ در کنار آن، امکان جمع‌آوری و تست **پروکسی** و اتصال مرورگر از طریق پروکسی برای رسیدن به سایت‌های هدف هم فراهم است.

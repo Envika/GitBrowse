@@ -1,5 +1,7 @@
 # راهنمای GitHub Actions این مخزن
 
+**English:** For the English version of this guide, read [docs/english.md — Repository GitHub Actions guide (English)](docs/english.md#repository-github-actions-guide-english).
+
 این فایل برای هر **Workflow** توضیح می‌دهد برای چه کاری است و چطور از آن استفاده کنید.
 
 ## قبل از شروع (مشترک)
