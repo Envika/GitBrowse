@@ -1,0 +1,27 @@
+{
+  "requested_url": "https://fearlessrevolution.com/viewtopic.php?t=19348&start=210",
+  "captured_at_utc": "2026-05-13T17:18:16.896817+00:00",
+  "domain": "fearlessrevolution.com",
+  "slug": "fearlessrevolution.com_viewtopic.php_t_19348_start_210",
+  "timestamp": "20260513_171816",
+  "session_key": "fearlessrevolution_com",
+  "persist_session": true,
+  "used_existing_session": false,
+  "save_response_bodies": true,
+  "max_response_body_mb": 2.0,
+  "max_asset_size_mb": 25.0,
+  "auto_scroll": true,
+  "include_videos": false,
+  "proxy": {
+    "enabled": false,
+    "mode": "none"
+  },
+  "final_url": "https://fearlessrevolution.com/viewtopic.php?t=19348&start=210",
+  "offline_assets_saved": 2,
+  "offline_assets_skipped": 0,
+  "offline_assets_failed": 0,
+  "dom_link_count": 4,
+  "media_link_count": 0,
+  "session_path": "sessions/fearlessrevolution_com.json",
+  "network_request_count": 18
+}
